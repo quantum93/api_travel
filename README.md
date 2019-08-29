@@ -14,8 +14,8 @@ The site should have functionality to review products so your database should in
 ## Setup/Installation Requirements
 
 * _For demonstration only,_
-* _locate this address (http://floating-scrubland-71604.herokuapp.com/) on your browser._
-&nbsp;
+* _locate this address (http://floating-scrubland-71604.herokuapp.com/) on your browser._\
+
 * _For local deployment_
 * _Clone this repository_
 * _Open terminal and type 'git clone [git link]'_
