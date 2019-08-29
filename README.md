@@ -28,7 +28,7 @@ The site should have functionality to review products so your database should in
 * _rake db:seed_
 * _rails s_
 * _open browser and locate localhost:3000_
-
+<br>
 * _For database,
 * _in order to backup, please execute followings in terminal,_
 * _pg_dump [YOUR DATABASE NAME] > database_backup.sql_
